@@ -11,12 +11,10 @@ streamlit_app/
 ├── requirements.txt
 ├── README.md
 └── models/
-    ├── xgboost_tuned_pipeline.pkl           <- copy dari notebook Anda
-    └── xgboost_tuned_pipeline_metadata.pkl  <- copy dari notebook Anda
+    ├── xgboost_tuned_pipeline.pkl           
+    └── xgboost_tuned_pipeline_metadata.pkl  
 ```
 
-Copy kedua file `.pkl` yang sudah Anda hasilkan (dari cell 109 di notebook, tersimpan
-di `...\Final Project\models\`) ke dalam folder `models/` di atas.
 
 ## 2. Install dependencies
 
